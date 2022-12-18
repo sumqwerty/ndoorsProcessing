@@ -1,2 +1,2 @@
-# ndoorsProcessing
-N-doors visualisation implemented in Processing(java)
+# ndoorsProcessing (Processing implementation of my javasctript nDoors Visualization)
+## For details : [javascript visualization](https://github.com/sumqwerty/nDoorsProblem) 
